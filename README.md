@@ -1,1 +1,1 @@
-# Rancher Catalogs bt Pietas Labs
+# Rancher Catalog by Pietas Labs
